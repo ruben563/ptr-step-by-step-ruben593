@@ -1,0 +1,55 @@
+body { background-color: #3399CC;
+      color: #666666;
+	  font-family: Verdana, Arial, sans-serif;
+	  background-image: linear-gradient(to bottom, #3399CC,  #C2E0F0, #3399CC);
+}
+header { background-color: #000033;
+         color: #FFFFFF;
+		 font-family: Georgia, serif; 
+		 
+}
+h1 { line-height: 200%;
+     background-image: url(https://i.postimg.cc/fWrrbch3/sunset.jpg);
+     background-repeat: no-repeat;
+     background-position: right;
+     padding-left: 1em;
+     height: 72px;
+	 margin-bottom: 0;
+  
+}
+nav { font-weight: bold;
+      background-color: #90C7E3; 
+	  padding: .5em .5em .5em 2em;
+}
+h2 { color: #3399CC;
+     font-family: Georgia, serif;
+}
+.resort { color: #000033;
+          font-size: 1.2em;
+}
+  nav { font-weight: bold;
+      background-color: #90C7E3; 
+	  padding: .5em .5em .5em 2em;
+}
+header{ background-color: #000033;
+         color: #FFFFFF;
+		 font-family: Georgia, serif; 		 
+}
+  .homehero { height: 300px;
+           background-image: url(https://i.postimg.cc/fWrrbch3/sunset.jpg)
+             background-size: 100% 100%;
+		   background-repeat: no-repeat;
+    width:100%;
+}
+  main { 
+    padding-left: 2em;
+      padding-right: 2em;
+	    background-color:white
+}
+footer{
+  text-align: center;
+    background-color: white;
+}
+.page{
+  width:100%;
+}
